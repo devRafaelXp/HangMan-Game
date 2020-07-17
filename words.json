@@ -1,0 +1,59 @@
+{	  
+    "words": [
+        {
+        	    "word": "java",
+        	    "tip": false,
+        	    "description_tip": "Programme Language"
+        	},
+        	{
+        	    "word": "house",
+        	    "tip": false,
+        	    "description_tip": "Home sweet home..."
+        	},
+        	{
+        	    "word": "javascript",
+        	    "tip": false,
+        	    "description_tip": "Programme Language"
+        	},
+        	{
+        	    "word": "television",
+        	    "tip": false,
+        	    "description_tip": "Every houses have it"
+        	},
+        	{
+        	    "word": "smartphone",
+        	    "tip": false,
+        	    "description_tip": "Actually everybody has it"
+        	},
+        	{
+        	    "word": "facebook",
+        	    "tip": false,
+        	    "description_tip": "Chat"
+        	},
+        	{
+        	    "word": "football",
+        	    "tip": false,
+        	    "description_tip": "22 people"
+        	},
+        	{
+        	    "word": "grand theft auto",
+        	    "tip": false,
+        	    "description_tip": "Game"
+        	},        	
+        	{
+        	    "word": "everybody hates chris",
+        	    "tip": false,
+        	    "description_tip": "Tv serie"
+        	},
+        	{
+        	    "word": "terry crews",
+        	    "tip": false,
+        	    "description_tip": "People"
+        	},
+        	{
+        	    "word": "street fighter",
+        	    "tip": false,
+        	    "description_tip": "Game"
+        	}
+    ]
+}
